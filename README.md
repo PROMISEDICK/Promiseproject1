@@ -3,12 +3,6 @@ Cybersecurity and; Network Engineering Professional   Google Cybersecurity Certi
 # 🌐 Onyinyechi Promise Dick  
 ### **Cybersecurity • Network Engineering • Cloud Security**
 
-`https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue`  
-`https://img.shields.io/github/followers/YOURUSERNAME?style=social`  
-`https://img.shields.io/github/stars/YOURUSERNAME?style=social`
-
----
-
 ## 🔐 About Me  
 Cybersecurity professional with hands‑on experience in **network engineering, firewall security, SIEM monitoring, vulnerability assessment, and Microsoft 365 security**.  
 Google Cybersecurity Certified and currently pursuing **CompTIA Security+**.
@@ -16,7 +10,6 @@ Google Cybersecurity Certified and currently pursuing **CompTIA Security+**.
 I enjoy building secure, resilient systems and solving real‑world security problems through automation, monitoring, and strong network architecture.
 
 ---
-
 ## 🛠️ Technical Skills  
 **Networking:** Cisco FMC/ISE • OSPF • EIGRP • DHCP • IP Addressing  
 **Security:** Fortinet • Cloudflare • Azure WAF • IAM • SIEM (Splunk) • Incident Response  
@@ -26,8 +19,6 @@ I enjoy building secure, resilient systems and solving real‑world security pro
 ---
 
 ## 🚀 Featured Projects  
-> Add your screenshots + Google Doc project summaries here.  
-> I’ll format them cleanly once you share them.
 
 ### **🔸 Network Access & Firewall Automation**
 Provisioned/deprovisioned VPN accounts, configured firewall rules, enforced whitelist/blacklist policies, and supported WAF onboarding.
